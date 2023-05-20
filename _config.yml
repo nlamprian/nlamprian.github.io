@@ -5,7 +5,7 @@ copyright_name: Nick Lamprianidis
 description: This is Nick's website. Here you can find his portfolio and blog posts on things he tackles on his daily work.
 baseurl: 
 url: https://nlamprian.me
-google_analytics: UA-98317084-1
+google_analytics: G-2CC5097Q97
 disqus_name: nlamprian
 
 permalink: /:categories/:title
