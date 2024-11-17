@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CNC Milling with the Snapmaker A350
-subtitle: Swap Door Sides on Your Snapmaker Enclosure
+subtitle: Swap door sides on your Snapmaker enclosure
 date: 2021-02-27 00:00:00
 author: Nick Lamprianidis
 header-img: 2021-02-27-cnc-milling-with-the-snapmaker-a350/logo.png
